@@ -6,11 +6,9 @@
 
 * ### <abbr title = "something that cant come true.-_-||" style = "">Have a big target: Game Developer!</abbr>  🎮
 
-* ### A guiter player  🎸
+* ### A Guiter Player  🎸
 
  Now Study python at home.
-
- 
 
  ## Links
  <table align = "left">
