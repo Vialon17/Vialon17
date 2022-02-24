@@ -4,7 +4,7 @@
 
 * ### Like anyyyy interesting thing... ❤️
 
-* ### <abbr title = "something that cant come true.-_-||" style = "">Have a big target: Game Developer!</abbr>  🎮
+* ### <abbr title = "something that cant come true.-_-||" style = "">Have a big target: ~~Game Developer~~(Algorithm Engineer)!</abbr>  🎮
 
 * ### A Guiter Player  🎸
 
