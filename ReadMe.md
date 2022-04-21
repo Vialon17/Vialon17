@@ -12,6 +12,6 @@
 
 ## Links
 
-| Twitter | Steam | Lofter |
+| Twitter | Steam | Kaggle |
 | :---: | :---: | :---: |
-| <a href = "https://www.twitter.com/VialonQ"><img src="./source/twi.jpg" alt="twitter" width="60px" height ="60px" /></img></a> | <a href = "https://steamcommunity.com/id/vialon17"><img src="./source/steam.jpg" alt="twi" width="60px" height ="60px" /></img></a> | <a href = "https://vialon17.lofter.com/"><img src="./source/lof.png" alt="lofter" width="60px" height ="60px" /></img></a> |
+| <a href = "https://www.twitter.com/VialonQ"><img src="./source/twi.jpg" alt="twitter" width="60px" height ="60px" /></img></a> | <a href = "https://steamcommunity.com/id/vialon17"><img src="./source/steam.jpg" alt="twi" width="60px" height ="60px" /></img></a> | <a href = "https://www.kaggle.com/vialon17/"><img src="./source/kag.png" alt="lofter" width="60px" height ="60px" /></img></a> |
